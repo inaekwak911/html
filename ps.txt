@@ -1,0 +1,4 @@
+root         1     0  0 16:43 ?        00:00:00 /init
+root        28     1  0 17:26 ?        00:00:00 /init
+root        29    28  0 17:26 ?        00:00:01 /init
+iakwak     238    30  0 18:39 pts/1    00:00:00 grep --color=auto root

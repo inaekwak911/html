@@ -1,0 +1,80 @@
+
+WARNING: file: ..\src\Service.cpp; line: 115; time: Tue Jun 22 18:56:18 2021;
+message: serviceHandlerProc(): WTS_REMOTE_CONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 127; time: Tue Jun 22 18:56:30 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOGOFF.
+
+
+WARNING: file: ..\src\Service.cpp; line: 111; time: Tue Jun 22 18:56:31 2021;
+message: serviceHandlerProc(): WTS_CONSOLE_DISCONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 119; time: Tue Jun 22 18:56:35 2021;
+message: serviceHandlerProc(): WTS_REMOTE_DISCONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 107; time: Tue Jun 22 18:56:35 2021;
+message: serviceHandlerProc(): WTS_CONSOLE_CONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 123; time: Wed Jun 23 08:58:52 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOGON.
+
+
+WARNING: file: ..\src\Service.cpp; line: 131; time: Wed Jun 23 08:58:59 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 135; time: Wed Jun 23 08:59:25 2021;
+message: serviceHandlerProc(): WTS_SESSION_UNLOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 131; time: Wed Jun 23 11:56:15 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 135; time: Wed Jun 23 13:00:48 2021;
+message: serviceHandlerProc(): WTS_SESSION_UNLOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 115; time: Wed Jun 23 19:41:27 2021;
+message: serviceHandlerProc(): WTS_REMOTE_CONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 127; time: Wed Jun 23 19:41:37 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOGOFF.
+
+
+WARNING: file: ..\src\Service.cpp; line: 111; time: Wed Jun 23 19:41:38 2021;
+message: serviceHandlerProc(): WTS_CONSOLE_DISCONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 119; time: Wed Jun 23 19:41:41 2021;
+message: serviceHandlerProc(): WTS_REMOTE_DISCONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 107; time: Wed Jun 23 19:41:41 2021;
+message: serviceHandlerProc(): WTS_CONSOLE_CONNECT.
+
+
+WARNING: file: ..\src\Service.cpp; line: 123; time: Thu Jun 24 08:59:50 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOGON.
+
+
+WARNING: file: ..\src\Service.cpp; line: 131; time: Thu Jun 24 08:59:58 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 135; time: Thu Jun 24 09:01:56 2021;
+message: serviceHandlerProc(): WTS_SESSION_UNLOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 131; time: Thu Jun 24 11:42:08 2021;
+message: serviceHandlerProc(): WTS_SESSION_LOCK.
+
+
+WARNING: file: ..\src\Service.cpp; line: 135; time: Thu Jun 24 13:12:14 2021;
+message: serviceHandlerProc(): WTS_SESSION_UNLOCK.
+
